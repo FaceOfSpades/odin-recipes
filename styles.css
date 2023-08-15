@@ -1,0 +1,18 @@
+.heading {
+    color: blue; background-color: yellow; text-align: center; font-size: 40px;
+}
+
+.option {
+    font-size: 30px;
+    background-color: green;
+}
+
+.heading2 {
+    color: white;
+    background-color: red;
+}
+
+.pic-adjust {
+    height: auto;
+    width: 500px;
+}
