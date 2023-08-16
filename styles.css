@@ -2,14 +2,26 @@
     color: blue; background-color: yellow; text-align: center; font-size: 40px;
 }
 
-.option {
+.alt {
     font-size: 30px;
-    background-color: green;
+    background-color: lightblue;
+    display: inline;
+    margin: 5px;
+    padding: 2px 8px;
+}
+
+.container {
+    width: 650px;
+    background-color: lightgreen;
+    border: solid 10px black;
+    margin: auto;
 }
 
 .heading2 {
     color: white;
     background-color: red;
+    display: inline;
+    width: auto;
 }
 
 .pic-adjust {
